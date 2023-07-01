@@ -4,7 +4,7 @@
 
 ## 安装
 
-下载 Workflow 文件到本地，打开 Alfred Workflows 窗口，直接将文件拖入即可安装
+下载 [XTools.Workflow](https://github.com/harryzhz/alfred-xtools/releases/download/v1.0.0/XTools-v1.0.0.alfredworkflow) 文件到本地，打开 Alfred Workflows 窗口，直接将文件拖入即可安装
 
 ## 使用
 
