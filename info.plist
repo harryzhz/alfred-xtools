@@ -387,7 +387,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>harry</string>
+	<string>harry zhang</string>
 	<key>description</key>
 	<string>常用加密、编解码、格式化工具包</string>
 	<key>disabled</key>
@@ -1052,7 +1052,8 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>详情见：
+https://github.com/harryzhz/alfred-xtools#readme</string>
 	<key>uidata</key>
 	<dict>
 		<key>09EEC9E9-0C23-494A-B99C-DFCCCBED533E</key>
