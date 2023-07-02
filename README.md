@@ -15,7 +15,18 @@
 2. 打开 Alfred Workflows 窗口，直接将文件拖入即可
 ![](assets/images/install.png)
 
+### 本地配置
+
+本工具用 Python2 开发，所以要求本地安装 Python2，工具配置的 python 路径为`/usr/local/bin/python2`
+
+如果你的 python 路径不一致需要建立软链接
+```bash
+ln -s $YourPythonPath /usr/local/bin/python2
+```
+
 ## 使用
+
+按照上述安装步骤安装完成后，你可以用如下方式开启使用之旅
 
 ### 1. 使用「xtools」关键字选择命令，如下图
 
